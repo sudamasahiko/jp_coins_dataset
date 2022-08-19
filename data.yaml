@@ -1,0 +1,7 @@
+train: ../jp_coins_dataset/images/
+val: ../jp_coins_dataset/images/
+
+nc: 6
+
+names: ['100yen', '10yen', '1yen', '500yen', '50yen', '5yen']
+
